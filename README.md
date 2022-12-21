@@ -2,8 +2,8 @@
 
 ![preview](image-preview-technews.png)
 
-Responsive landing page built using HTML, CSS and JavaScript.
 
+Responsive news website built using HTML, CSS and JavaScript.
 
 
 ### Installation
