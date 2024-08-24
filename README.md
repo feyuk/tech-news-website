@@ -3,8 +3,7 @@
 ![preview](image-preview-technews.png)
 
 
-Responsive news website built using HTML, CSS and JavaScript.
-
+A dynamic tech news website that aggregates the latest news articles from multiple sources. Developed using modern web technologies such as React for the frontend and Node.js for the backend, this project showcases the implementation of real-time data fetching, state management, and a responsive UI for an engaging user experience.
 
 ### Installation
 
